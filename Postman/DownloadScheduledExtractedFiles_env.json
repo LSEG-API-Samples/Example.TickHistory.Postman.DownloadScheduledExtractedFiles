@@ -54,7 +54,7 @@
 		},
 		{
 			"key": "host",
-			"value": "selectapi.datascope.refinitiv.com/",
+			"value": "selectapi.datascope.lseg.com/",
 			"enabled": true
 		},
 		{
